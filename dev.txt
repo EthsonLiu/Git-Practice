@@ -1,3 +1,4 @@
 test
 rebase test1
 feturetest1
+test offline commit1
