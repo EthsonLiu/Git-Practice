@@ -5,3 +5,4 @@ test offline commit1
 test offline commit2
 
 feturetest1-com1
+featuretest1-com2
