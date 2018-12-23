@@ -6,4 +6,8 @@ test offline commit2
 
 feturetest1-com1
 featuretest1-com2
+<<<<<<< HEAD
 conflict
+=======
+add new
+>>>>>>> conflict test
