@@ -2,7 +2,7 @@ test
 rebase test1
 feturetest1
 test offline commit1
-test offline commit2
+test offline commit2| conflict modify
 
 feturetest1-com1
 featuretest1-com2
@@ -11,3 +11,5 @@ conflict
 =======
 add new
 >>>>>>> conflict test--
+
+add conflict test 2
