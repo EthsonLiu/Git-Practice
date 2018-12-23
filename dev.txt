@@ -10,4 +10,4 @@ featuretest1-com2
 conflict
 =======
 add new
->>>>>>> conflict test
+>>>>>>> conflict test--
