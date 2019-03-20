@@ -1,3 +1,4 @@
 conflict test 3--modified
 ---
 add new line
+add feature
