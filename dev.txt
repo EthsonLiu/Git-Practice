@@ -7,3 +7,5 @@ add new line
 test+1
 newline
 
+feature test
+
