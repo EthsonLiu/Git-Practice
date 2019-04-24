@@ -1,11 +1,1 @@
-
-conflict test 3--modified
----
-add new line
----add feature
-
-test+1
-newline
-
-feature test
-
+feat_merge_to_feat_2
