@@ -3,3 +3,5 @@ resolve github
 =======
 resolve local
 >>>>>>> Stashed changes
+
+reslove github-2
