@@ -9,3 +9,4 @@ newline
 
 feature test
 
+resolve
