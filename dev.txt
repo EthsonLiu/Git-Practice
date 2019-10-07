@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 feat_merge_to_feat_1
 feat_merge_to_feat_2
+=======
+feat1
+
+>>>>>>> feat_to_feat1
